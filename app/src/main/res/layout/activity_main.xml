@@ -28,7 +28,7 @@
         android:orientation="horizontal">
 
         <Button
-            android:layout_width="wrap_content"
+            android:layout_width="130dp"
             android:layout_height="wrap_content"
             android:text="PLAY"
             android:textSize="32sp"
@@ -38,7 +38,7 @@
             android:onClick="startGame"/>
 
         <Button
-            android:layout_width="wrap_content"
+            android:layout_width="130dp"
             android:layout_height="wrap_content"
             android:text="EXIT"
             android:textSize="32sp"

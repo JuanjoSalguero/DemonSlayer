@@ -20,4 +20,8 @@ public class MainActivity extends AppCompatActivity {
         GameView gameView = new GameView(this);
         setContentView(gameView);
     }
+
+    public void exitGame(View view){
+        finish();
+    }
 }

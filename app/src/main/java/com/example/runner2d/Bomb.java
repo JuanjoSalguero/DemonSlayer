@@ -16,8 +16,8 @@ public class Bomb {
     // Constructor
     public Bomb(Context context){
         bomb[0] = BitmapFactory.decodeResource(context.getResources(), R.drawable.bomb);
-        bomb[1] = BitmapFactory.decodeResource(context.getResources(), R.drawable.bomb1);
-        bomb[2] = BitmapFactory.decodeResource(context.getResources(), R.drawable.bomb2);
+        bomb[1] = BitmapFactory.decodeResource(context.getResources(), R.drawable.bomb);
+        bomb[2] = BitmapFactory.decodeResource(context.getResources(), R.drawable.bomb);
         random = new Random();
         resetPosition();
     }
