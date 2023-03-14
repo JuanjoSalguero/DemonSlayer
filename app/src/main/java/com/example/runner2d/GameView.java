@@ -63,7 +63,7 @@ public class GameView extends View {
                 invalidate();
             }
         };
-        textPaint.setColor(Color.rgb(0, 0,0));
+        textPaint.setColor(Color.rgb(242, 105,7));
         textPaint.setTextSize(TEXT_SIZE);
         textPaint.setTextAlign(Paint.Align.LEFT);
         healthPaint.setColor(Color.GREEN);
