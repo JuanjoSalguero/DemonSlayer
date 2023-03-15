@@ -63,10 +63,10 @@ public class GameView extends View {
                 invalidate();
             }
         };
-        textPaint.setColor(Color.rgb(242, 105,7));
+        textPaint.setColor(Color.rgb(0, 0,0));
         textPaint.setTextSize(TEXT_SIZE);
         textPaint.setTextAlign(Paint.Align.LEFT);
-        healthPaint.setColor(Color.GREEN);
+        healthPaint.setColor(Color.parseColor("#ff669900"));
         random = new Random();
         characterX = dWidth/2 - character.getWidth()/2;
         characterY = dHeight - ground.getHeight() - character.getHeight();
@@ -128,7 +128,7 @@ public class GameView extends View {
         }
 
         if (life == 2){
-            healthPaint.setColor(Color.YELLOW);
+            healthPaint.setColor(Color.parseColor("#ffff8800"));
         } else if (life == 1) {
             healthPaint.setColor(Color.RED);
         }
