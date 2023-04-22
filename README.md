@@ -7,21 +7,21 @@ This game is composed of a main screen, a game screen and a Game Over screen whi
 - Home Screen:
 
 <p align="center">
-  <img width="700" src="https://i.ibb.co/Qd0W7Ph/Home.jpg">
+  <img width="250" src="https://i.ibb.co/Qd0W7Ph/Home.jpg">
 </p>
 
 - Game Screen:
 
 <p align="center">
-  <img width="700" src="https://i.ibb.co/m5SYdCk/game.jpg">
+  <img width="250" src="https://i.ibb.co/m5SYdCk/game.jpg">
 </p>
 
 <p align="center">
-  <img width="700" src="https://i.ibb.co/PW219YK/game1.jpg">
+  <img width="250" src="https://i.ibb.co/PW219YK/game1.jpg">
 </p>
 
 - Game Over Screen:
 
 <p align="center">
-  <img width="700" src="https://i.ibb.co/WGJKyw2/Game-hover.jpg">
+  <img width="250" src="https://i.ibb.co/WGJKyw2/Game-hover.jpg">
 </p>
